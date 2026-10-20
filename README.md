@@ -2,6 +2,9 @@ All the Schematics present in youtube or internet didnt work, either they never 
 they contain Relay which switches On and Off when full charge of Battery is about to Reach.
 
 <br> 
+<img width="788" height="340" alt="6v lead acid voltage full charge" src="https://github.com/user-attachments/assets/553d0543-47dd-4ce9-ac03-16d1707d69cd" />
+
+<br>
 <img width="824" height="1000" alt="lead acid battery" src="https://github.com/user-attachments/assets/072354a9-f384-4698-a528-3bba5ce07cb2" />
 
 <br>
