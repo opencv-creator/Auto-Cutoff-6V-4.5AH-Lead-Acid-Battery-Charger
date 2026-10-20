@@ -3,4 +3,4 @@ they contain Relay which switches On and Off when full charge of Battery is abou
 
 in the Schematic mentioned in the below picture
 
-![Uploading final 6v auto cutoff with two opamps by chatgpt.png…]()
+https://github.com/opencv-creator/Auto-Cutoff-6V-4.5AH-Lead-Acid-Battery-Charger/blob/main/final%206v%20auto%20cutoff%20with%20two%20opamps%20by%20chatgpt.png
