@@ -16,10 +16,11 @@ they contain Relay which switches On and Off when full charge of Battery is abou
 
 <img width="1674" height="1338" alt="variable power supply" src="https://github.com/user-attachments/assets/6a3ac4e7-23fc-4a4e-a379-6123e3f0cf19" />
 
+<br>
 
 6) In the Schematic mentioned in the below picture , Preset Resistors R1, R2 and R3, R4 (all are 200k ohms Presets) , connect the Variable power supply shown in above figure to COM pin of 5V Relay and keep 6v as the Variable power Supply output and adjust R1,R2 such that VL = 2.5v and in the same way keep 7.2v as the Variable power Supply output and R3, R4 should be adjusted ,such that they produce VH = 2.5v
 
-   
+<br>
 
 <img width="1536" height="1024" alt="final 6v auto cutoff with two opamps by chatgpt" src="https://github.com/user-attachments/assets/792827a1-06e8-4007-8cae-8889d6203b4a" />
 
