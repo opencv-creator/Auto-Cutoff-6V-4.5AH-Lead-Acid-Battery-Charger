@@ -26,7 +26,7 @@ Battery Charging Voltage for Cycle use where Battery is fully Discharged and Rec
 
 4) Use 7805 Voltage Regulator for creating 5V for powering the OpAmp LM358, CD4013 ( D-FLIP FLOP ) and TL431 programmable shunt voltage regulator
 
-5) First Remove the 6v 4.5AH Lead acid battery , connect Variable Power Supply as shown in below figure
+5) First Remove the 6v 4.5AH Lead acid battery , and Remove the 7.4V supply connectecd to Relay COM Pin and connect Variable Power Supply as shown in below figure to Relays COM pin 
 
 <img width="1674" height="1338" alt="variable power supply" src="https://github.com/user-attachments/assets/6a3ac4e7-23fc-4a4e-a379-6123e3f0cf19" />
 
