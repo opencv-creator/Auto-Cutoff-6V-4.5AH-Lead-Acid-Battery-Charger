@@ -36,7 +36,8 @@ NO pin will glow indicating Full Charge.
 
 <br>
 
-<img width="1536" height="1024" alt="final 6v auto cutoff with two opamps by chatgpt" src="https://github.com/user-attachments/assets/792827a1-06e8-4007-8cae-8889d6203b4a" />
+<img width="1536" height="1024" alt="final 6v auto cutoff with two opamps by chatgpt" src="https://github.com/user-attachments/assets/697871a5-9f04-43ef-9b41-1e39751d719b" />
+
 
 <br>
 <br>
