@@ -1,6 +1,7 @@
 All the Schematics present in youtube or internet didnt work, either they never full charge the battery or they dont stop charging after full charge or 
 they contain Relay which switches On and Off when full charge of Battery is about to Reach.
 
+<br> 
 <img width="824" height="1000" alt="lead acid battery" src="https://github.com/user-attachments/assets/072354a9-f384-4698-a528-3bba5ce07cb2" />
 
 <br>
@@ -9,7 +10,6 @@ they contain Relay which switches On and Off when full charge of Battery is abou
 Charging Current Limit: Do not exceed 10%–20% of the battery's Ah rating (for example, a 5Ah battery should use roughly a 0.5A to 1A charger)
 Battery Charging Voltage for Cycle use where Battery is fully Discharged and Recharged again (the Lead Acid Battery is charged at 7.2 to 7.4V ) and for Standby Use or Backup Mode where Battery stays connected to charger continuously (charging voltage is 6.8 to 6.9v). I am using Cycle use, so Charging Voltage 7.2V
 
-<br>
 <br>
 
 1) use 12v 1Amp Transformer with Full Wave Rectifier to create 12v Dc.(All diodes used in the below full wave rectifier are 1N4148)
