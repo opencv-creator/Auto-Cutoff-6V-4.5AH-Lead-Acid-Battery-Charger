@@ -1,4 +1,4 @@
-all the Schematics present in youtube or internet didnt work, either they never full charge the battery or they dont stop charging after full charge or 
+All the Schematics present in youtube or internet didnt work, either they never full charge the battery or they dont stop charging after full charge or 
 they contain Relay which switches On and Off when full charge of Battery is about to Reach.
 
 <img width="824" height="1000" alt="lead acid battery" src="https://github.com/user-attachments/assets/072354a9-f384-4698-a528-3bba5ce07cb2" />
