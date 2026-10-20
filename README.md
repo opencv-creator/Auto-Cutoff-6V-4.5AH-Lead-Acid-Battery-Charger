@@ -1,5 +1,5 @@
 All the Schematics present in youtube or internet didnt work, either they never full charge the battery or they dont stop charging after full charge or 
-they contain Relay which switches On and Off when full charge of Battery is about to Reach.
+they contain Relay which switches On and Off when full charge of Battery is about to Reach. (Charging completes approximately after 17 Hrs for a 6V 4.5AH Lead Acid Battery)
 
 <br> 
 <img width="788" height="340" alt="6v lead acid voltage full charge" src="https://github.com/user-attachments/assets/553d0543-47dd-4ce9-ac03-16d1707d69cd" />
@@ -33,8 +33,9 @@ Battery Charging Voltage for Cycle use where Battery is fully Discharged and Rec
 <br>
 <br>
 
-6) In the Schematic mentioned in the below picture , Preset Resistors R1, R2 and R3, R4 (all are 200k ohms Presets) , connect the Variable power supply shown in above figure to COM pin of 5V Relay and keep 6v as the Variable power Supply output and adjust R1,R2 such that VL = 2.5v and in the same way keep 7.2v as the Variable power Supply output and R3, R4 should be adjusted ,such that they produce VH = 2.5v. after this Connect the 6v 4.5AH Lead acid battery and switch on the Power supply. when the battery voltage as read by R1, R2 is greater than 6v then Battery starts charging indicated by Green Led present at Relay's NC Pin and when Charging completes approximately after 17 Hrs then Red Led present Relays
-NO pin will glow indicating Full Charge.
+6) In the Schematic mentioned in the below picture , Preset Resistors R1, R2 and R3, R4 (all are 200k ohms Presets) , connect the Variable power supply shown in above figure to COM pin of 5V Relay and keep 6v as the Variable power Supply output and adjust R1,R2 such that VL = 2.5v and in the same way keep 7.2v as the Variable power Supply output and R3, R4 should be adjusted ,such that they produce VH = 2.5v.
+  
+7) After this Connect the 6v 4.5AH Lead acid battery and switch on the Power supply. when the battery voltage as read by R1, R2 is greater than 6v then Battery starts charging indicated by Green Led present at Relay's NC Pin and when Charging completes approximately after 17 Hrs then Red Led present at Relays NO pin will glow indicating Full Charge.
 
 
 <br>
