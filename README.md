@@ -2,7 +2,14 @@ All the Schematics present in youtube or internet didnt work, either they never 
 they contain Relay which switches On and Off when full charge of Battery is about to Reach. (Charging completes approximately after 17 Hrs for a 6V 4.5AH Lead Acid Battery)
 
 <br> 
-<img width="788" height="340" alt="6v lead acid voltage full charge" src="https://github.com/user-attachments/assets/553d0543-47dd-4ce9-ac03-16d1707d69cd" />
+
+Voltage vs. State of Charge (SLA / AGM Reference)
+• 100% Charged: ~6.44V
+• 80% Charged: ~6.33V
+• 60% Charged: ~6.20V
+• 40% Charged: ~6.05V
+• 20% Charged: ~5.90V
+• 0% / Fully Discharged (50% depth limit): ~5.81V to 5.90V (avoid discharging lower to prevent permanent damage)
 
 <br>
 <img width="824" height="1000" alt="lead acid battery" src="https://github.com/user-attachments/assets/072354a9-f384-4698-a528-3bba5ce07cb2" />
