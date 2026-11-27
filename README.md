@@ -49,7 +49,8 @@ Battery Charging Voltage for Cycle use where Battery is fully Discharged and Rec
 
 <img width="1536" height="1024" alt="final 6v auto cutoff with two opamps by chatgpt" src="https://github.com/user-attachments/assets/8e3ede13-5f8b-424d-b39c-480ba76a8988" />
 
-
+5v - Relay pin out
+-----------------------
 
 <br>
 <br>
