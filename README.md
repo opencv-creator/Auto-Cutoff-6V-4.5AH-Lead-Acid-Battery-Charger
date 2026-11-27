@@ -1,5 +1,5 @@
 All the Schematics present in youtube or internet didnt work for me, they never fully charge the battery or they dont stop charging after full charge or 
-they contain Relay which switches On and Off when full charge of Battery is about to Reach. (Charging completes approximately after 17 Hrs for a 6V 4.5AH Lead Acid Battery)
+they contain Relay which switches On and Off when full charge of Battery is about to Reach. (with my circuit, Charging completes approximately after 17 Hrs for a 6V 4.5AH Lead Acid Battery)
 
 <br> 
 
