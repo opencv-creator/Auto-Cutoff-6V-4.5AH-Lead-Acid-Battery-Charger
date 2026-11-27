@@ -27,7 +27,7 @@ Battery Charging Voltage for Cycle use where Battery is fully Discharged and Rec
 
 <img width="671" height="329" alt="full wave rectifier" src="https://github.com/user-attachments/assets/700c677e-904c-4125-94d9-3aacc1ebe1c3" />
 
-2) Use LM317T create 7.4V using 12V Dc which will be used for finally charging the 6V 4.5AH Lead Acid battery
+2) Use LM317T and create 7.4V using 12V Dc which will be used for finally charging the 6V 4.5AH Lead Acid battery
    ----------------------------------------------------------------------------------------------------------------------------------
 
 <img width="748" height="380" alt="LM317-typical-adjustable-regulator-ckt" src="https://github.com/user-attachments/assets/c8a5e4ea-4b45-4db5-9dda-a48ffdc07d93" />
